@@ -1,0 +1,41 @@
+#Proxychains
+# proxea commandoa
+
+# Instalamos el servicio de TOR (no el navegador), este abrira el servicio en 127.0.0.1:9050
+	$ sudo apt install proxychains tor -y
+
+# Verficamos el estado de TOR:
+	$ service tor status
+
+# Si esta apagado hay q iniciarlo
+	$ service tor start
+
+# Ahora configuramos proxychains
+	$ sudo nano etc/proxychains4.conf
+	$ sudo nano etc/proxychains.conf
+
+# Cambiar el metodo de chain a
+	$ dynamic_chain
+
+#localizamos el config file utilizado por defecto
+	$ locate proxychains
+	
+# Agregamos el servicio de TOR al proxy
+	$ socks4 127.0.0.1 9050
+	$ socks5 127.0.0.1 9050
+	
+# Aqui podemos agregar mas proxys en cadena si se desea.
+	$ #socks5 152.32.187.164 8118
+	$ #socks5 64.225.8.82 9995
+
+
+
+# Alternativa
+# NIPE proxea las conexiones de internet por TOR, cambiando la IP publica.
+
+cd ~
+cd /nipe
+
+sudo perl nipe.pl start
+sudo perl nipe.pl stop
+sudo perl nipe.pl status

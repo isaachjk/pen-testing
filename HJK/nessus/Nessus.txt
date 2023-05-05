@@ -1,0 +1,7 @@
+Nessus: isaachjk / Qswopa33
+Activation Code: 7EG4-3XL4-MVHS-ERFY-HLFE
+
+- You can start Nessus Scanner by typing: /bin/systemctl start nessusd.service
+- Then go to https://kali:8834/ to configure your scanner
+
+
