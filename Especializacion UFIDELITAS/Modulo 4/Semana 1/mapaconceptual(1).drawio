@@ -1,0 +1,188 @@
+<mxfile host="app.diagrams.net" modified="2023-07-06T20:12:43.872Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:109.0) Gecko/20100101 Firefox/115.0" etag="gpH1j8JlT2BqB_lo-c8j" version="21.6.1" type="device">
+  <diagram name="Página-1" id="hCUQH-qeIGW9Gf3W09Ai">
+    <mxGraphModel dx="3434" dy="1356" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="QE1EvQHDXemYRNI5UJXF-30" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" source="QE1EvQHDXemYRNI5UJXF-1" target="QE1EvQHDXemYRNI5UJXF-2" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="QE1EvQHDXemYRNI5UJXF-54" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" source="QE1EvQHDXemYRNI5UJXF-1" target="QE1EvQHDXemYRNI5UJXF-53" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="QE1EvQHDXemYRNI5UJXF-1" value="La evolución de los métodos criptográficos" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="354" y="90" width="226" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="QE1EvQHDXemYRNI5UJXF-28" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="QE1EvQHDXemYRNI5UJXF-2" target="QE1EvQHDXemYRNI5UJXF-3" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="QE1EvQHDXemYRNI5UJXF-2" value="Capitulo 1: CRIPTOGRAFÍA CLÁSICA&lt;br&gt;" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="140" y="200" width="150" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="QE1EvQHDXemYRNI5UJXF-29" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="QE1EvQHDXemYRNI5UJXF-3" target="QE1EvQHDXemYRNI5UJXF-4" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="QE1EvQHDXemYRNI5UJXF-39" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" source="QE1EvQHDXemYRNI5UJXF-3" target="QE1EvQHDXemYRNI5UJXF-32" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="QE1EvQHDXemYRNI5UJXF-3" value="La criptografia tiene como objetivo permitir que dos personas puedan intercambiarse información de forma confidencial y segura mediante un canal inseguro.&lt;br&gt;" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="90" y="290" width="250" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="QE1EvQHDXemYRNI5UJXF-24" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.75;exitY=1;exitDx=0;exitDy=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="QE1EvQHDXemYRNI5UJXF-4" target="QE1EvQHDXemYRNI5UJXF-14" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint y="490" />
+              <mxPoint y="936" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="QE1EvQHDXemYRNI5UJXF-25" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.75;exitY=1;exitDx=0;exitDy=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="QE1EvQHDXemYRNI5UJXF-4" target="QE1EvQHDXemYRNI5UJXF-7" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint y="490" />
+              <mxPoint y="793" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="QE1EvQHDXemYRNI5UJXF-26" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.75;exitY=1;exitDx=0;exitDy=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="QE1EvQHDXemYRNI5UJXF-4" target="QE1EvQHDXemYRNI5UJXF-8" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint y="490" />
+              <mxPoint y="663" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="QE1EvQHDXemYRNI5UJXF-27" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.75;exitY=1;exitDx=0;exitDy=0;entryX=1;entryY=0.75;entryDx=0;entryDy=0;" parent="1" source="QE1EvQHDXemYRNI5UJXF-4" target="QE1EvQHDXemYRNI5UJXF-5" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint y="490" />
+              <mxPoint y="555" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="QE1EvQHDXemYRNI5UJXF-4" value="1. Algunos de los métodos que se han utilizado a lo largo de los años." style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="-110" y="412" width="230" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="QE1EvQHDXemYRNI5UJXF-5" value="&lt;b&gt;Escítala lacedemonia&lt;/b&gt;&lt;br&gt;&lt;div align=&quot;left&quot;&gt;&lt;ul&gt;&lt;li&gt;&amp;nbsp;Uno de los primeros métodos criptográficos documentados.&lt;/li&gt;&lt;li&gt;&amp;nbsp;La escítala era un cilindro o bastón delgado alrededor del cual se enrollaba una tira de pergamino.&lt;/li&gt;&lt;li&gt;&amp;nbsp; El mensaje se escribía en diagonal a lo largo de la tira y, una vez que se desenrollaba, se volvía ilegible&lt;/li&gt;&lt;li&gt;&amp;nbsp;El receptor tenía otra escítala de tamaño y forma idénticos, podía envolver la tira alrededor de ella y leer el mensaje original&lt;/li&gt;&lt;/ul&gt;&lt;/div&gt;" style="whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="-510" y="427" width="370" height="170" as="geometry" />
+        </mxCell>
+        <mxCell id="QE1EvQHDXemYRNI5UJXF-7" value="&lt;div&gt;&lt;b&gt;Atbash&lt;br&gt;&lt;/b&gt;&lt;/div&gt;&lt;div&gt;&lt;div align=&quot;left&quot;&gt;&lt;ul&gt;&lt;li&gt;Una sustitución al invertir el orden de las letras del alfabeto.&lt;/li&gt;&lt;li&gt;Es decir, la primera letra se sustituye por la última, la segunda por la penúltima, y así sucesivamente.&lt;/li&gt;&lt;li&gt;Transformando ISAAC =&amp;gt; RHZZX.&lt;/li&gt;&lt;/ul&gt;&lt;/div&gt;&lt;b&gt;&lt;/b&gt;&lt;/div&gt;" style="whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="-510" y="728" width="370" height="130" as="geometry" />
+        </mxCell>
+        <mxCell id="QE1EvQHDXemYRNI5UJXF-8" value="&lt;b&gt;Cifrado de Julio César&lt;/b&gt;&lt;br&gt;&lt;div align=&quot;left&quot;&gt;&lt;ul&gt;&lt;li&gt;&amp;nbsp;El método que consiste en sustituir cada letra del mensaje original por la tercera letra que le sigue en el alfabeto.&lt;/li&gt;&lt;li&gt;&amp;nbsp;Ejemplo: la letra a se sustituye por la D, la b por la E, la c por la F, y así sucesivamente.&lt;/li&gt;&lt;li&gt;Transformando ISAAC =&amp;gt; LVDDF.&lt;br&gt;&lt;/li&gt;&lt;/ul&gt;&lt;/div&gt;" style="whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="-510" y="600" width="370" height="125" as="geometry" />
+        </mxCell>
+        <mxCell id="QE1EvQHDXemYRNI5UJXF-14" value="&lt;div&gt;&lt;b&gt;Cifrado de Polibio&lt;/b&gt;&lt;/div&gt;&lt;div&gt;&lt;b&gt;&lt;br&gt;&lt;/b&gt;&lt;/div&gt;&lt;div align=&quot;left&quot;&gt;&lt;ul&gt;&lt;li&gt;Este cifrado es un tipo de cifrado de sustitución que se basa en la sustitución de cada letra del mensaje original por un par de números que representan las coordenadas de una cuadrícula.&lt;br&gt;&lt;/li&gt;&lt;/ul&gt;&lt;/div&gt;" style="whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="-510" y="861" width="370" height="150" as="geometry" />
+        </mxCell>
+        <mxCell id="QE1EvQHDXemYRNI5UJXF-43" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="QE1EvQHDXemYRNI5UJXF-32" target="QE1EvQHDXemYRNI5UJXF-33" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="QE1EvQHDXemYRNI5UJXF-32" value="2. Criptoanálisis de los sistemas clásicos" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="160" y="412" width="230" height="78" as="geometry" />
+        </mxCell>
+        <mxCell id="QE1EvQHDXemYRNI5UJXF-44" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="QE1EvQHDXemYRNI5UJXF-33" target="QE1EvQHDXemYRNI5UJXF-35" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="QE1EvQHDXemYRNI5UJXF-33" value="&lt;br&gt; Estudio y análisis de los métodos de cifrado históricos o clásicos &lt;br&gt;utilizados en diferentes períodos de la historia." style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="160" y="510" width="240" height="105" as="geometry" />
+        </mxCell>
+        <mxCell id="QE1EvQHDXemYRNI5UJXF-47" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="QE1EvQHDXemYRNI5UJXF-34" target="QE1EvQHDXemYRNI5UJXF-36" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="QE1EvQHDXemYRNI5UJXF-34" value="descifrar o romper el cifrado sin tener acceso a la clave o información &lt;br/&gt;necesaria para realizar el proceso de descifrado correctamente" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="165" y="690" width="230" height="100" as="geometry" />
+        </mxCell>
+        <mxCell id="QE1EvQHDXemYRNI5UJXF-46" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="QE1EvQHDXemYRNI5UJXF-35" target="QE1EvQHDXemYRNI5UJXF-34" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="QE1EvQHDXemYRNI5UJXF-35" value="Objetivo" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
+          <mxGeometry x="250" y="640" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="QE1EvQHDXemYRNI5UJXF-38" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="QE1EvQHDXemYRNI5UJXF-36" target="QE1EvQHDXemYRNI5UJXF-37" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="QE1EvQHDXemYRNI5UJXF-36" value="&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;Algunos ataques expuestos por el autor:&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div align=&quot;left&quot;&gt;&lt;ul&gt;&lt;li&gt;Ataque por fuerza bruta&lt;/li&gt;&lt;li&gt;Ataque por máxima verosimilitud&lt;/li&gt;&lt;li&gt;Utilizar herramientas estadísticas&lt;/li&gt;&lt;/ul&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="155" y="820" width="250" height="110" as="geometry" />
+        </mxCell>
+        <mxCell id="QE1EvQHDXemYRNI5UJXF-48" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="QE1EvQHDXemYRNI5UJXF-37" target="QE1EvQHDXemYRNI5UJXF-40" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="QE1EvQHDXemYRNI5UJXF-51" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="QE1EvQHDXemYRNI5UJXF-37" target="QE1EvQHDXemYRNI5UJXF-50" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="QE1EvQHDXemYRNI5UJXF-37" value="Cifradores de rotación" style="whiteSpace=wrap;html=1;rounded=1;" parent="1" vertex="1">
+          <mxGeometry x="220" y="990" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="QE1EvQHDXemYRNI5UJXF-49" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="QE1EvQHDXemYRNI5UJXF-40" target="QE1EvQHDXemYRNI5UJXF-41" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="50" y="1133" />
+              <mxPoint x="-100" y="1133" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="QE1EvQHDXemYRNI5UJXF-40" value="&lt;div&gt;un mecanismo de cifrado que se utiliza para realizar sustituciones polialfabéticas, para dificultar la labor de desencripción&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="-60" y="980" width="220" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="QE1EvQHDXemYRNI5UJXF-41" value="&lt;div align=&quot;left&quot;&gt;&lt;ol&gt;&lt;li&gt;Disco cifrador de Alberti&lt;/li&gt;&lt;li&gt;Disco cifrador de Della Porta&lt;/li&gt;&lt;li&gt;Reproducción de la NSA de un disco&lt;/li&gt;&lt;li&gt;cifrador confederado&lt;/li&gt;&lt;li&gt;Reproducción del cifrador atribuido a Thomas Jefferson&lt;/li&gt;&lt;/ol&gt;&lt;div&gt;Dispositivos criptográficos que consisten en discos concéntricos &lt;br&gt;giratorios utilizados para realizar sustituciones polialfabéticas en el &lt;br&gt;cifrado de mensajes. Estos discos permiten establecer diferentes &lt;br&gt;correspondencias de sustitución para cada letra, lo que dificulta el &lt;br&gt;análisis de frecuencia y otros métodos criptoanalíticos.&lt;/div&gt;&lt;/div&gt;" style="whiteSpace=wrap;html=1;align=left;" parent="1" vertex="1">
+          <mxGeometry x="-510" y="1035" width="370" height="195" as="geometry" />
+        </mxCell>
+        <mxCell id="QE1EvQHDXemYRNI5UJXF-50" value="&lt;div&gt;A lo largo de la historia hubieron otros como: &lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div align=&quot;left&quot;&gt;&lt;ul&gt;&lt;li&gt;Nomenclátor de Felipe II&lt;/li&gt;&lt;li&gt;Reproducción parcial del abecedario y del silabario&lt;br&gt;de Felipe II.&lt;/li&gt;&lt;li&gt;Cuadro de Vigenère (Revolucionó los cifrados polialfabéticos, por la complejidad).&lt;/li&gt;&lt;li&gt;Cifrado Playfair&lt;br&gt;&lt;/li&gt;&lt;/ul&gt;&lt;/div&gt;" style="whiteSpace=wrap;html=1;rounded=1;" parent="1" vertex="1">
+          <mxGeometry x="158" y="1105" width="243.5" height="195" as="geometry" />
+        </mxCell>
+        <mxCell id="NNI8EEKVgwngqpUd9AZa-1" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="QE1EvQHDXemYRNI5UJXF-53" target="QE1EvQHDXemYRNI5UJXF-55">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="QE1EvQHDXemYRNI5UJXF-53" value="Capitulo 2: LAS MÁQUINAS CIFRADORAS Y LA SEGUNDA GUERRA MUNDIAL" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="700" y="210" width="190" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="QE1EvQHDXemYRNI5UJXF-57" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="QE1EvQHDXemYRNI5UJXF-55" target="QE1EvQHDXemYRNI5UJXF-56" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="QE1EvQHDXemYRNI5UJXF-55" value="Este capítulo habla de las primeras máquinas, muchos modelos, que en síntesis se basaron en el cifrado de &lt;br&gt; &lt;b&gt;Beaufort&lt;/b&gt;, que a su vez era una variante del cifrado de Vigenère. El&amp;nbsp; sistema de cifrado de &lt;b&gt;Hagelin &lt;/b&gt;(una de las más populares) utilizaba una tabla similar a la de &lt;b&gt;Vigenère&lt;/b&gt;, pero en lugar de la celda de intersección, se utilizaba la primera letra de la fila correspondiente a la letra de la clave en la columna de la letra a cifrar." style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="620" y="290" width="350" height="160" as="geometry" />
+        </mxCell>
+        <mxCell id="NNI8EEKVgwngqpUd9AZa-3" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="QE1EvQHDXemYRNI5UJXF-56" target="NNI8EEKVgwngqpUd9AZa-2">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="NNI8EEKVgwngqpUd9AZa-5" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="QE1EvQHDXemYRNI5UJXF-56" target="NNI8EEKVgwngqpUd9AZa-4">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="QE1EvQHDXemYRNI5UJXF-56" value="&lt;div&gt;&lt;b&gt;Otros modelos famosos:&lt;/b&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;Modelo SZ-40 y SZ-42a/b de Tunny: Se empleaba en escenarios militares del más&lt;br&gt;alto nivel entre Hitler y sus generales.&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;Geheimschreiber: siguiendo&lt;br&gt;la misma pauta que la aplicada a la Tunny.&lt;/div&gt;" style="whiteSpace=wrap;html=1;rounded=1;" parent="1" vertex="1">
+          <mxGeometry x="647.5" y="480" width="295" height="145" as="geometry" />
+        </mxCell>
+        <mxCell id="NNI8EEKVgwngqpUd9AZa-2" value="Si bien los modelos SZ-42a y SZ-42b fueron una versión mejorada, sus cifrados fueron rotos con el &lt;b&gt;Colossus - Primer ordenador electrónico-digital&lt;/b&gt;" style="whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="1">
+          <mxGeometry x="992" y="538" width="172" height="118" as="geometry" />
+        </mxCell>
+        <mxCell id="NNI8EEKVgwngqpUd9AZa-7" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="NNI8EEKVgwngqpUd9AZa-4" target="NNI8EEKVgwngqpUd9AZa-6">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="NNI8EEKVgwngqpUd9AZa-4" value="&lt;div&gt;&lt;b&gt;Máquina Enigma:&amp;nbsp;&lt;/b&gt;&lt;/div&gt;&lt;div align=&quot;left&quot;&gt;&lt;ol&gt;&lt;li&gt;De las más famosas.&lt;/li&gt;&lt;li&gt;Alemana&lt;/li&gt;&lt;li&gt;Creada en 1918 por Arthur Scherbius&lt;/li&gt;&lt;li&gt;Manejaba de 3 a 5 rotores para la encriptación.&lt;/li&gt;&lt;li&gt;Los rotores daban la capacidad de tener de 3,1·10^25~~ 284 claves un número bastante grande.&lt;br&gt;&lt;/li&gt;&lt;/ol&gt;&lt;/div&gt;" style="whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="1">
+          <mxGeometry x="667.5" y="656" width="255" height="190" as="geometry" />
+        </mxCell>
+        <mxCell id="NNI8EEKVgwngqpUd9AZa-9" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="NNI8EEKVgwngqpUd9AZa-6" target="NNI8EEKVgwngqpUd9AZa-8">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="NNI8EEKVgwngqpUd9AZa-6" value="&lt;div&gt;Descifrando la Enigma&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;Aun con tantas claves posibles, fue posible romper el sistema Enigma.&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;Con el trabajo del profeso Zdzislaw Krygowski y 3 exalumns: Rejewski, Zygalski y Rozycki.&lt;br&gt;&lt;/div&gt;" style="whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="1">
+          <mxGeometry x="970" y="686" width="255" height="130" as="geometry" />
+        </mxCell>
+        <mxCell id="NNI8EEKVgwngqpUd9AZa-11" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="NNI8EEKVgwngqpUd9AZa-8" target="NNI8EEKVgwngqpUd9AZa-10">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="NNI8EEKVgwngqpUd9AZa-8" value="Diseñaron las primeras máquinas llamadas Bomba, que probaban las 26^3 posibilidades de la máquinas enigma. Y posteriormente utilizadas para interceptar las comunicaciones Alemanas. Sin embargo luego los Alemanes dotaron de mas rotores y quedó inutil" style="whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="1">
+          <mxGeometry x="979.06" y="846" width="236.88" height="154" as="geometry" />
+        </mxCell>
+        <mxCell id="NNI8EEKVgwngqpUd9AZa-13" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="NNI8EEKVgwngqpUd9AZa-10" target="NNI8EEKVgwngqpUd9AZa-12">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="NNI8EEKVgwngqpUd9AZa-10" value="&lt;div&gt;&lt;b&gt;Maquina de Turing&lt;/b&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;Alan Turing, Retomaría los trabajos de este grupo que descifró enigma, diseñando la Bomba (en honor a la máquina diseñada inicialmente). Que descompone los algoritmos para probar gran cantidad de códigos Enigma. Jugando un papel importante en la Segunda Guerra Munidial.&lt;br&gt;&lt;/div&gt;" style="whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="1">
+          <mxGeometry x="680" y="880" width="220" height="197" as="geometry" />
+        </mxCell>
+        <mxCell id="NNI8EEKVgwngqpUd9AZa-12" value="Alan Turing es considerado uno de los padres de las ciencias de la computación y principal precursor de la Informática" style="whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="1">
+          <mxGeometry x="695" y="1120" width="190" height="80" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
